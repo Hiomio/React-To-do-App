@@ -1,0 +1,3 @@
+nav-icons {
+    @apply cursor-pointer w-6 h-6 hover:scale-110 transition-transform duration-150;
+}
